@@ -1,0 +1,16 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "\"Extreme Yech Training\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Siu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-rc.1"
+  }
+}
